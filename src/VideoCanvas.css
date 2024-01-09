@@ -1,0 +1,8 @@
+/* .canvas{
+    position: absolute !important;
+} */
+
+.canvas-container{
+    position: absolute !important;
+    top: 25px;
+}
