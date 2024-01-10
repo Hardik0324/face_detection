@@ -4,5 +4,14 @@
 
 .canvas-container{
     position: absolute !important;
-    top: 25px;
+}
+
+video{
+    height: 500px;
+}
+
+.btnUp:hover{
+    color: white;
+    background-color: black;
+    border-color: white;
 }

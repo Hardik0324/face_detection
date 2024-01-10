@@ -1,10 +1,11 @@
 import VideoCanvas from "./VideoCanvas";
+import "./App.css"
 
 const App = () => {
 
 
   return (
-    <div>
+    <div className="relative top-[80px]">
      <VideoCanvas />
     </div>
   );
